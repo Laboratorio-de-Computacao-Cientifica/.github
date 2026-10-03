@@ -27,4 +27,4 @@ O LC² é um ambiente aberto a novas parcerias institucionais e industriais.
 ## 📌 Links Úteis e Registro
 
 *   [Polo de Inovação IFFluminense]([https://iff.edu.br](https://portal1.iff.edu.br/nossos-campi/polo-de-inovacao-campos-dos-goytacazes))
-*   [Diretório de Grupos de Pesquisa do CNPq](http://cnpq.br)
+*   [Diretório de Grupos de Pesquisa do CNPq](dgp.cnpq.br/dgp/espelhogrupo/9427937843749390)
